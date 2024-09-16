@@ -1,7 +1,7 @@
 ## Hi there 👋
-###I'm @yahya245, currently doing a degree in digital and technology solutions (PwC degree apprentice)
+I'm @yahya245, currently doing a degree in digital and technology solutions (PwC degree apprentice)
+- 📫 How to reach me: yahyamohamed13579@gmail.com
 
-<!--
 **Yahya245/Yahya245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: yahyamohamed13579@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
